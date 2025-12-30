@@ -10,3 +10,5 @@ test/Model/TestAsset/module/BarConf/config/module.config.php
 test/Model/TestAsset/module/FooConf/config/module.config.php
 vendor/*
 !vendor/Test/
+.idea
+composer.phar
